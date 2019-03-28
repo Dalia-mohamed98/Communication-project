@@ -32,7 +32,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of BPSK after noise](/figures/BPSK_after.png)
  
 ### BER performance figure
-![BER figure](/fig/BPSK.fig)
+![BER figure](/ber/bpsk.png)
 
 
 
@@ -65,7 +65,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of QPSK after noise](/figures/QPSK_after.png)
  
 ### BER performance figure
-![BER figure](/fig/QPSK.fig)
+![BER figure](/ber/qpsk.png)
 
 
 ## FSK modulation scheme
@@ -96,7 +96,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of FSK after noise](/figures/FSK_after.png)
  
 ### BER performance figure
-![BER figure](/figures/BER.png)
+![BER figure](/ber/fsk.png)
 
 
 
@@ -129,7 +129,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of QAM-16 after noise](/figures/QAM16_after.png)
  
 ### BER performance figure
-![BER figure](/figures/BER.png)
+![BER figure](/ber/qam16.png)
 
 
 
@@ -162,5 +162,5 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of QAM-64 after noise](/figures/QAM64_after.png)
  
 ### BER performance figure
-![BER figure](/figures/BER.png)
+![BER figure](/ber/qam64.png)
 
