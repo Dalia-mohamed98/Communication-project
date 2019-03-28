@@ -25,14 +25,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 ##### before noise at Transmitter
 
-![ScatterImage of BPSK before noise](https://Dalia-mohamed98.github.com/figures/BPSK_before.png)
+![ScatterImage of BPSK before noise](/figures/BPSK_before.png)
  
 ##### after noise at Reciever
 
-![ScatterImage of BPSK after noise](https://Dalia-mohamed98.github.com/figures/BPSK_after.png)
+![ScatterImage of BPSK after noise](/figures/BPSK_after.png)
  
 #### BER performance figure
-![BER figure](https://Dalia-mohamed98.github.com/figures/BER.png)
+![BER figure](/figures/BER.png)
 
 
 
@@ -58,14 +58,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 ##### before noise at Transmitter
 
-![ScatterImage of QPSK before noise](https://Dalia-mohamed98.github.com/figures/QPSK_before.png)
+![ScatterImage of QPSK before noise](/figures/QPSK_before.png)
  
 ##### after noise at Reciever
 
-![ScatterImage of BPSK after noise](https://Dalia-mohamed98.github.com/figures/QPSK_after.png)
+![ScatterImage of BPSK after noise](/figures/QPSK_after.png)
  
 #### BER performance figure
-![BER figure](https://Dalia-mohamed98.github.com/figures/BER.png)
+![BER figure](/figures/BER.png)
 
 
 ## FSK modulation scheme
@@ -89,14 +89,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 ##### before noise at Transmitter
 
-![ScatterImage of FSK before noise](https://Dalia-mohamed98.github.com/figures/FSK_before.png)
+![ScatterImage of FSK before noise](/figures/FSK_before.png)
  
 ##### after noise at Reciever
 
-![ScatterImage of FSK after noise](https://Dalia-mohamed98.github.com/figures/FSK_after.png)
+![ScatterImage of FSK after noise](/figures/FSK_after.png)
  
 #### BER performance figure
-![BER figure](https://Dalia-mohamed98.github.com/figures/BER.png)
+![BER figure](/figures/BER.png)
 
 
 
@@ -122,14 +122,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 ##### before noise at Transmitter
 
-![ScatterImage of QAM-16 before noise](https://Dalia-mohamed98.github.com/figures/QAM16_before.png)
+![ScatterImage of QAM-16 before noise](/figures/QAM16_before.png)
  
 ##### after noise at Reciever
 
-![ScatterImage of QAM-16 after noise](https://Dalia-mohamed98.github.com/figures/QAM16_after.png)
+![ScatterImage of QAM-16 after noise](/figures/QAM16_after.png)
  
 #### BER performance figure
-![BER figure](https://Dalia-mohamed98.github.com/figures/BER.png)
+![BER figure](/figures/BER.png)
 
 
 
@@ -155,11 +155,11 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 ##### before noise at Transmitter
 
-![ScatterImage of QAM-64 before noise](https://Dalia-mohamed98.github.com/figures/QAM64_before.png)
+![ScatterImage of QAM-64 before noise](/figures/QAM64_before.png)
  
 ##### after noise at Reciever
 
-![ScatterImage of QAM-64 after noise](https://Dalia-mohamed98.github.com/figures/QAM64_after.png)
+![ScatterImage of QAM-64 after noise](/figures/QAM64_after.png)
  
 #### BER performance figure
-![BER figure](https://Dalia-mohamed98.github.com/figures/BER.png)
+![BER figure](/figures/BER.png)
