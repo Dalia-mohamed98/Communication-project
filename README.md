@@ -32,7 +32,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of BPSK after noise](/figures/BPSK_after.png)
  
 #### BER performance figure
-![BER figure](/figures/BER.png)
+![BER figure](/fig/BPSK.fig)
 
 
 
@@ -62,10 +62,10 @@ Using the Random Integer Generator as a source to generate a random sequence of 
  
 ##### after noise at Reciever
 
-![ScatterImage of BPSK after noise](/figures/QPSK_after.png)
+![ScatterImage of QPSK after noise](/figures/QPSK_after.png)
  
 #### BER performance figure
-![BER figure](/figures/BER.png)
+![BER figure](/fig/QPSK.fig)
 
 
 ## FSK modulation scheme
