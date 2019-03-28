@@ -26,15 +26,23 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 #### before noise at Transmitter 
 
 ![ScatterImage of BPSK before noise](/figures/BPSK_before.png)
+
+#### with Raised cosine 
+![ScatterImage of BPSK before noise](/figures/RBPSK_before.png)
  
 #### after noise at Reciever
 
 ![ScatterImage of BPSK after noise](/figures/BPSK_after.png)
  
+#### with Raised cosine 
+![ScatterImage of BPSK after noise](/figures/RBPSK_after.png)
+
+
 ### BER performance figure
 ![BER figure](/ber/bpsk.png)
 
-
+#### with Raised cosine 
+![Ber fig](/ber/RBPSK.png)
 
 ## QPSK modulation scheme
 
@@ -59,13 +67,22 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 #### before noise at Transmitter
 
 ![ScatterImage of QPSK before noise](/figures/QPSK_before.png)
+
+#### with Raised cosine 
+![ScatterImage of QPSK before noise](/figures/RQPSK_before.png)
  
 #### after noise at Reciever
 
 ![ScatterImage of QPSK after noise](/figures/QPSK_after.png)
+
+#### with Raised cosine 
+![ScatterImage of QPSK after noise](/figures/RQPSK_after.png)
  
 ### BER performance figure
 ![BER figure](/ber/qpsk.png)
+
+#### with Raised cosine 
+![BER figure](/ber/RQPSK.png)
 
 
 ## FSK modulation scheme
@@ -90,14 +107,22 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 #### before noise at Transmitter
 
 ![ScatterImage of FSK before noise](/figures/FSK_before.png)
+
+#### with Raised cosine 
+![ScatterImage of FSK before noise](/figures/RFSK_before.png)
  
 #### after noise at Reciever
 
 ![ScatterImage of FSK after noise](/figures/FSK_after.png)
+
+#### with Raised cosine 
+![ScatterImage of FSK after noise](/figures/RFSK_after.png)
  
 ### BER performance figure
 ![BER figure](/ber/fsk.png)
 
+#### with Raised cosine 
+![BER figure](/ber/RFSK.png)
 
 
 ## QAM-16 modulation scheme
@@ -123,13 +148,22 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 #### before noise at Transmitter
 
 ![ScatterImage of QAM-16 before noise](/figures/QAM16_before.png)
+
+#### with Raised cosine 
+![ScatterImage of QAM before noise](/figures/QAM16_before.png)
  
 #### after noise at Reciever
 
 ![ScatterImage of QAM-16 after noise](/figures/QAM16_after.png)
+
+#### with Raised cosine 
+![ScatterImage of QAM-16 after noise](/figures/RQAM16_after.png)
  
 ### BER performance figure
 ![BER figure](/ber/qam16.png)
+
+#### with Raised cosine 
+![BER figure](/ber/RQAM16.png)
 
 
 
