@@ -69,14 +69,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of QPSK before noise](/figures/QPSK_before.png)
 
 #### with Raised cosine 
-![ScatterImage of QPSK before noise](/figures/RQPSK_before.png)
+![ScatterImage of QPSK before noise](/figures/RQPSK_before.PNG)
  
 #### after noise at Reciever
 
 ![ScatterImage of QPSK after noise](/figures/QPSK_after.png)
 
 #### with Raised cosine 
-![ScatterImage of QPSK after noise](/figures/RQPSK_after.png)
+![ScatterImage of QPSK after noise](/figures/RQPSK_after.PNG)
  
 ### BER performance figure
 ![BER figure](/ber/qpsk.png)
@@ -109,14 +109,14 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of FSK before noise](/figures/FSK_before.png)
 
 #### with Raised cosine 
-![ScatterImage of FSK before noise](/figures/RFSK_before.png)
+![ScatterImage of FSK before noise](/figures/RFSK_before.PNG)
  
 #### after noise at Reciever
 
 ![ScatterImage of FSK after noise](/figures/FSK_after.png)
 
 #### with Raised cosine 
-![ScatterImage of FSK after noise](/figures/RFSK_after.png)
+![ScatterImage of FSK after noise](/figures/RFSK_after.PNG)
  
 ### BER performance figure
 ![BER figure](/ber/fsk.png)
@@ -157,7 +157,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 ![ScatterImage of QAM-16 after noise](/figures/QAM16_after.png)
 
 #### with Raised cosine 
-![ScatterImage of QAM-16 after noise](/figures/RQAM16_after.png)
+![ScatterImage of QAM-16 after noise](/figures/RQAM16_after.PNG)
  
 ### BER performance figure
 ![BER figure](/ber/qam16.png)
