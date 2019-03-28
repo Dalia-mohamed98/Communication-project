@@ -8,9 +8,9 @@ Digital Communications Matlab-Simulink Project
 #### Explanation
 
 
-**Binary Phase Shift Keying** (BPSK) is a two phase modulation scheme, where the 0�s and 1�s in a binary message are represented by two different phase states in the carrier signal: ?=0? for binary 1 and ?=180? for binary 0.
+**Binary Phase Shift Keying** (BPSK) is a two phase modulation scheme, where the 0’s and 1’s in a binary message are represented by two different phase states in the carrier signal: ?=0? for binary 1 and ?=180? for binary 0.
 
-**Binary Phase Shift Keying** (BPSK) is a two phase modulation scheme, where the 0’s and 1’s in a binary message are represented by two different phase states in the carrier signal: θ=0∘ for binary 1 and θ=180∘ for binary 0.
+**Binary Phase Shift Keying** (BPSK) is a two phase modulation scheme, where the 0â€™s and 1â€™s in a binary message are represented by two different phase states in the carrier signal: Î¸=0âˆ˜ for binary 1 and Î¸=180âˆ˜ for binary 0.
 
 This is also called as 2-phase PSK or Phase Reversal Keying.
 
@@ -120,7 +120,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 #### Explanation
 
-**Quadrature amplitude modulation** (QAM) conveys two bit streams by changing the amplitude of two carrier waves that have the same frequency and a 90° shift. The most common type of QAM modulation is rectangular QAM, were the constellation points are arranged in a square grid.
+**Quadrature amplitude modulation** (QAM) conveys two bit streams by changing the amplitude of two carrier waves that have the same frequency and a 90Â° shift. The most common type of QAM modulation is rectangular QAM, were the constellation points are arranged in a square grid.
 In QAM system,two amplitude-modulated (AM) signals are combined into a single channel.
 
 Using the Random Integer Generator as a source to generate a random sequence of binary bits, then **QAM** modulated signal is transmitted through Additive White Gaussian Noise (AWGN) channel where a noise is add to signal and after reception of base band signal some error is found (Pe). It is compared the input binary sequence and demodulated output by using error rate calculator block.
@@ -153,7 +153,7 @@ Using the Random Integer Generator as a source to generate a random sequence of 
 
 #### Explanation
 
-**Quadrature amplitude modulation** (QAM) conveys two bit streams by changing the amplitude of two carrier waves that have the same frequency and a 90° shift. The most common type of QAM modulation is rectangular QAM, were the constellation points are arranged in a square grid.
+**Quadrature amplitude modulation** (QAM) conveys two bit streams by changing the amplitude of two carrier waves that have the same frequency and a 90Â° shift. The most common type of QAM modulation is rectangular QAM, were the constellation points are arranged in a square grid.
 In QAM system,two amplitude-modulated (AM) signals are combined into a single channel.
 
 Using the Random Integer Generator as a source to generate a random sequence of binary bits, then **QAM** modulated signal is transmitted through Additive White Gaussian Noise (AWGN) channel where a noise is add to signal and after reception of base band signal some error is found (Pe). It is compared the input binary sequence and demodulated output by using error rate calculator block.
@@ -179,4 +179,4 @@ Using the Random Integer Generator as a source to generate a random sequence of 
  
 #### BER performance figure
 ![BER figure](/figures/BER.png)
->>>>>>> bd3d13f0e1170bc97d14b6087e165b201ff18c31
+
